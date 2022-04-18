@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clive-666
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning anything i've time for
-- 💞️ Happyb to colborate
+- 💞️ Happy to colborate
 - 📫 How to reach me - email
 
 <!---
